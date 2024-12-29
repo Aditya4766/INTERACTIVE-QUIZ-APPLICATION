@@ -31,3 +31,7 @@ The scoring mechanism is customizable to suit different needs, such as assigning
 User-Friendly Interface:
 A clean, intuitive design ensures users can navigate the quiz easily.
 Progress indicators guide users through the quiz, showing how many questions remain.
+
+#OUTPUT OF THE TASK
+
+![Screenshot 2024-12-29 122318](https://github.com/user-attachments/assets/8f26a27a-1364-4a1b-9ef1-d3efafe4d60d)
