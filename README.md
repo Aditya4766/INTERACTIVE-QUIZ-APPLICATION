@@ -35,5 +35,5 @@ Progress indicators guide users through the quiz, showing how many questions rem
 #OUTPUT OF THE TASK
 
 ![Screenshot 2024-12-29 122318](https://github.com/user-attachments/assets/8f26a27a-1364-4a1b-9ef1-d3efafe4d60d)
-
+<br>
 ![Screenshot 2024-12-29 122746](https://github.com/user-attachments/assets/b579255f-395b-416b-83e7-613c423e36a9)
